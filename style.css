@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Paprika&display=swap');
+
+body {
+  font-family: 'Paprika', cursive;
+  text-align: center;
+  background-color: #000711;
+  color: white;
+}
+
+img {
+  border-radius: 20px;
+}
+
+input {
+  width: 350px;
+  padding: 5px 5px 5px 5px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 5px 5px 5px 5px;
+  border-radius: 10px;
+}
+
+div.chatbox {
+  margin-top: 10px;
+}
+
+h1#alien-text {
+  color: green;
+}
+
+h1#alien-text-red {
+  color: red;
+}
